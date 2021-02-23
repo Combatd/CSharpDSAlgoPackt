@@ -1,6 +1,7 @@
 # CSharpDSAlgoPackt
 Data Structures and Algorithms in C#
 
+Series of Tutorials introducing common Data Structures and Algorithms commonly found in a code base
 ## Learning Goals
 * Get a strong foundation of algorithms and data structures
 * Pick optimal solutions for your daily programming tasks with extra knowledge of well-known algorithms
